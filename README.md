@@ -1,2 +1,1 @@
-# AppVis
-Application for tracking job applications
+# Next.js Tutorial
